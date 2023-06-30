@@ -1,0 +1,4 @@
+﻿  Final.cpp
+C:\Users\SevaSamara2022\Desktop\Программы\OTYAP_3\OTYAP_3\Final.cpp(985,17): warning C4244: return: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\SevaSamara2022\Desktop\Программы\OTYAP_3\OTYAP_3\Final.cpp(1014): warning C4715: Get_Lex_Type: значение возвращается не при всех путях выполнения
+  OTYAP_3.vcxproj -> C:\Users\SevaSamara2022\Desktop\Программы\OTYAP_3\x64\Debug\OTYAP_3.exe
