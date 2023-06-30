@@ -1,0 +1,5 @@
+﻿  Copy.cpp
+C:\Users\SevaSamara2022\Desktop\Программы\Yap_6_laba\Yap_6_laba\Copy.cpp(332,81): warning C4267: =: преобразование из "size_t" в "size_m"; возможна потеря данных
+C:\Users\SevaSamara2022\Desktop\Программы\Yap_6_laba\Yap_6_laba\Copy.cpp(339,42): warning C4101: err: неиспользованная локальная переменная
+C:\Users\SevaSamara2022\Desktop\Программы\Yap_6_laba\Yap_6_laba\Copy.cpp(836,2): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Yap_6_laba.vcxproj -> C:\Users\SevaSamara2022\Desktop\Программы\Yap_6_laba\x64\Debug\Yap_6_laba.exe
