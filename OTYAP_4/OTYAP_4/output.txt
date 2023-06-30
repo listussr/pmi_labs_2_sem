@@ -1,0 +1,2 @@
+if[if] a[id] <[co] 10[vl] the[id] a[id] =[eq] b[id] +[ao] 5[vl] en[id] 
+4 th
