@@ -1,0 +1,4 @@
+﻿  Din_array.cpp
+C:\Users\SevaSamara2022\Desktop\Программы\YAPSD_5\YAPSD_5\Din_array.cpp(249,31): warning C4267: =: преобразование из "size_t" в "size_m"; возможна потеря данных
+C:\Users\SevaSamara2022\Desktop\Программы\YAPSD_5\YAPSD_5\Din_array.cpp(256,33): warning C4101: err: неиспользованная локальная переменная
+  YAPSD_5.vcxproj -> C:\Users\SevaSamara2022\Desktop\Программы\YAPSD_5\x64\Debug\YAPSD_5.exe
